@@ -1,7 +1,6 @@
 # BI-vendas
 Este repositório contém o desenvolvimento do relatório interativo construído com Power BI Desktop, como parte do desafio prático da Formação Power BI Analyst na DIO.
 
-Este repositório contém a primeira parte do desafio prático da Formação Power BI Analyst da DIO. O relatório foi desenvolvido com Power BI Desktop utilizando a base `sample financials.xlsx`.
 
 ## 🎯 Objetivo do Projeto
 
